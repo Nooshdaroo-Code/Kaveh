@@ -26,37 +26,37 @@ This project is released under the CC BY 4.0 license and permits both commercial
 
 ## FAQ
 
-**What types of malware does Kaveh monitor?**
+> **What types of malware does Kaveh monitor?**
 
 Currently, Kaveh focuses on mobile malware found in Iran.
 
   
 
-**Who can use Kaveh?**
+> **Who can use Kaveh?**
 
 Kaveh's data is directly useful to cybersecurity researchers and developers of privacy and user security tools. End users benefit indirectly from Kaveh.
 
   
 
-**Is Kaveh an antivirus?**
+> **Is Kaveh an antivirus?**
 
 Kaveh is not an antivirus, but its data can be used in antivirus solutions and other cybersecurity tools.
 
   
 
-**How does Kaveh detect malware?**
+> **How does Kaveh detect malware?**
 
 Kaveh collects and analyzes suspicious apps using open-source resources and proprietary scanning tools. The analysis process is semi-automated.
 
   
 
-**Are Kaveh’s scanning and crawler tools open source?**
+> **Are Kaveh’s scanning and crawler tools open source?**
 
 At the moment, Kaveh's scanning and crawler tools are not open source.
 
   
 
-**Can Kaveh mistakenly identify a benign app as malware?**
+> **Can Kaveh mistakenly identify a benign app as malware?**
 
 While the likelihood is very low, like any similar tool, Kaveh may occasionally misclassify a benign app as malware.
 
