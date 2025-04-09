@@ -12,7 +12,7 @@ Each of these files will be explained below.
 
 ## Full Version (full.json)
 This file provides the most complete version of Kaveh’s output in indented format. The file structure is as follows:
-```json
+```
 {
   "version": VERSION,
   "docs": {
@@ -75,7 +75,7 @@ It is guaranteed that for every detectable malware category, there is a correspo
 ## Lightweight Version (mini.json)
 This file includes all contents of the full version except for `sha1_hash` and `md5_hash`, and is not indented. This version is recommended for use in secondary applications.  
 The file structure is as follows:
-```json
+```
 {
   "version": VERSION,
   "docs": {
@@ -108,7 +108,7 @@ The file structure is as follows:
 
 This file contains only the MD5 hashes of malware and is not indented. This version is not recommended unless extreme optimization is required.  
 The file structure is as follows:
-```json
+```
 {
   "version": VERSION,
   "malware": [
