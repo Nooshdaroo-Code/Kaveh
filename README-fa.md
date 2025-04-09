@@ -10,7 +10,7 @@
 
 ## نحوه استفاده
 
-[ساختار خروجی کاوه را بخوانید](https://github.com/Nooshdaroo-Code/Kaveh/blob/main/docs/README-fa.md) را بخوانید
+[ساختار خروجی کاوه را بخوانید](https://github.com/Nooshdaroo-Code/Kaveh/blob/main/docs/structure-fa.md) را بخوانید
 
 ## دسته های بدافزار
 
