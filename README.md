@@ -14,7 +14,7 @@ This JSON output can be used in privacy and user security tools, as well as in c
 
 ## How to Use
 
-Read [Kaveh Data Structure](https://github.com/Nooshdaroo-Code/Kaveh/blob/main/docs/structure-en.md)
+Read [Kaveh Data Structure](https://github.com/Nooshdaroo-Code/Kaveh/blob/main/docs/structure-en.md).
 
 ## Malware Categories
 
