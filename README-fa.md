@@ -10,7 +10,16 @@
 
 ## نحوه استفاده
 
-[ساختار خروجی کاوه را بخوانید](https://github.com/Nooshdaroo-Code/Kaveh/blob/main/docs/structure-fa.md) را بخوانید.
+خروجی پروژه کاوه در قالب چهار فایل در مسیر اصلی این مخزن قابل استفاده است.
+
+|نام فایل|کاربرد|
+|--|--|
+|full.json|نسخه کامل|
+|mini.json|نسخه کم حجم (پیشنهادی)|
+|micro.json|نسخه بسیار کم حجم|
+|VERSION|کد نسخه فعلی|
+
+برای اطلاعات بیشتر [ساختار خروجی کاوه](https://github.com/Nooshdaroo-Code/Kaveh/blob/main/docs/structure-fa.md) را بخوانید.
 
 ## دسته های بدافزار
 

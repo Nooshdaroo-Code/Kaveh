@@ -14,7 +14,16 @@ This JSON output can be used in privacy and user security tools, as well as in c
 
 ## How to Use
 
-Read [Kaveh Data Structure](https://github.com/Nooshdaroo-Code/Kaveh/blob/main/docs/structure-en.md).
+The output of the Kaveh project is available in four files located in the root directory of this repository.
+
+|File Name|Usage|
+|--|--|
+|full.json|Full version|
+|mini.json|Lightweight version (recommended)|
+|micro.json|Ultra-light version|
+|VERSION|Current version code|
+
+Read [Kaveh Data Structure](https://github.com/Nooshdaroo-Code/Kaveh/blob/main/docs/structure-en.md) for more information.
 
 ## Malware Categories
 
