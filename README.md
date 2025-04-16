@@ -4,7 +4,7 @@ Kāveh is a malware discovery project focused on malware present in Iran. This p
 
   
 
-کاوه یک پروژه کشف بدافزار با تمرکز بر بدافزار های موجود در ایران است. این پروژه زیر مجموعه [نوش دارو](https://nooshdaroo.ir/) و توسعه یافته توسط [محسن طهماسبی](https://github.com/moh53n) است. لیست بدافزار های کشف شده تحت اجازه نامه CC BY 4.0 به صورت رایگان در این مخزن قرار دارند. [برای مستندات فارسی اینجا کلیک کنید](https://github.com/Nooshdaroo-Code/Kaveh/blob/main/README-fa.md).
+کاوه یک پروژه کشف بدافزار با تمرکز بر بدافزار های موجود در ایران است. این پروژه زیر مجموعه [نوشدارو](https://nooshdaroo.ir/) و توسعه یافته توسط [محسن طهماسبی](https://github.com/moh53n) است. لیست بدافزار های کشف شده تحت اجازه نامه CC BY 4.0 به صورت رایگان در این مخزن قرار دارند. [برای مستندات فارسی اینجا کلیک کنید](https://github.com/Nooshdaroo-Code/Kaveh/blob/main/README-fa.md).
 
 ## Overview
 
