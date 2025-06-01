@@ -1,5 +1,5 @@
 {
-  "version": "20250517",
+  "version": "20250601",
   "docs": {
     "Android.Spy.Lydia": "https://github.com/Nooshdaroo-Code/Kaveh/blob/main/docs/malware/Android.Spy.Lydia/README.md",
     "IRATA": "https://github.com/Nooshdaroo-Code/Kaveh/blob/main/docs/malware/IRATA/README.md"
@@ -18,6 +18,15 @@
       "sha256_hash": "01322e2b318f657a30d39dcb04788094b98c92b4da1bdf2f9dc02c09c38ae418",
       "sha1_hash": "48b039819560be41b9053f395e2307f7bf55cd9f",
       "md5_hash": "f17cc57600da0321e5a74646f991f044",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "01d840496d457504661cf29b0a9bb231411bd83bed375087f80824e4575d139b",
+      "sha1_hash": "f0e8d39e9dd4c8aec55777d11ff1c98abeafa269",
+      "md5_hash": "ee8dfc02c1dc19829501c2a72468a442",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -69,6 +78,15 @@
       ]
     },
     {
+      "sha256_hash": "05093b228815d9cdac1971955991995bc2894b5c43673bd05b000b76dd7e19aa",
+      "sha1_hash": "c8b8e5e7e06c3648b7e2a8ece87836c40044585c",
+      "md5_hash": "e68e3e7462d78cdb5db6e5c7265cc433",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "052bc74cb215a94af9328f9c2d627790bb24f81d51dcf8c7435aafabbcfce9fc",
       "sha1_hash": "9fd05f2cd82ed3d5e618a1cdd30d376eda875d16",
       "md5_hash": "88c0b93d48b3af8b5bf08325498d6ee7",
@@ -81,6 +99,15 @@
       "sha256_hash": "0597244555b1c416369a13cc9bb9b57f3b74fc703e2573caceacc305805e9a0e",
       "sha1_hash": "4bc4139af5271fbcd9d0314c08a2341e0aa049c7",
       "md5_hash": "efb2726fb32d1480934e57dc9cc9717c",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "05af9c502cb16d13c1d320ad8a41e7f815c75fe135cf81984f1174ef87e109fb",
+      "sha1_hash": "e707cc3d153ff19bd8145cc54d56810478ecb4e7",
+      "md5_hash": "81030a53e5a8d69b2513437220d23e42",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -132,6 +159,15 @@
       ]
     },
     {
+      "sha256_hash": "08c09969920d75b221c4d3a14a5277a9cf93c822eb0b152a736d08a214e42803",
+      "sha1_hash": "cf8fedd3a633e2ca27029183873057c0e7cd615f",
+      "md5_hash": "15be45bd00dffdd1b72eb307110d9b02",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "090e0a999e5fa62739f9bc5d1474c1bd964f2f15a20824eda7d67ae080f5bef9",
       "sha1_hash": "ba5b271a35fb7588313a18d4093638f4ae00b288",
       "md5_hash": "db72d4823679136473bc9eacc17b997d",
@@ -171,6 +207,33 @@
       "sha256_hash": "0b5659024bf0870609d813bc4f591907f8633810d8e4c028f0875f151cafb18e",
       "sha1_hash": "7e4b61f2a2f8d7d8e674b8254560039382593b47",
       "md5_hash": "955f5a934e0538c3e14d5ae8b76395fe",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "0bf42fd682467ba0d0ba3f8db9e55263b9b70bdbcc8580b9899ce4f70bacb4ac",
+      "sha1_hash": "e68fe5815aedf1448cd92613e86a26036539572c",
+      "md5_hash": "cff015ab167cbabd897009ea3be260d7",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "0cb96aa4ef5e80a0bc1bb1fe2ac92e137d80aa42674b62a3e62d32b06cf8109b",
+      "sha1_hash": "09cc44e8f808d286a2944d507535b9253f504c65",
+      "md5_hash": "212b9c30e66bcdbe07c8e03cfea2f504",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "0d5f72bf76181750cf90f3a4cf1a51e001da573176c3eea526236f672c97d516",
+      "sha1_hash": "03da65c476f88692ce85d6ea279817a31ce01e90",
+      "md5_hash": "4623f28362d79e71560446b9c198c0fc",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -240,6 +303,15 @@
       ]
     },
     {
+      "sha256_hash": "11470b5107f563c19ab92929a0e0ee5cf1b0c95fdd146f69ff9f9d4123f908cb",
+      "sha1_hash": "11b00c50bdafd9d9a2effcd4e51655689afb0b84",
+      "md5_hash": "bb2d3c26762eaa3b9c0bc1915dfe8ca0",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "11543bd05be88f9d9f558556a514204cd0c4e0f2144106475e76e4b583cac1b5",
       "sha1_hash": "b9a90d25b48246ab9233c3683539970947904360",
       "md5_hash": "f598986a68dc631d348e01f0288a7772",
@@ -276,9 +348,36 @@
       ]
     },
     {
+      "sha256_hash": "1747fa0dead296a8b7471da2bd361abdf647dc7ffd7022ccd144dcd46558cfe6",
+      "sha1_hash": "4f9f9113babd19cec3db214a5d2a2761bc93fc88",
+      "md5_hash": "fc8094667772c6927ad6767ce18a3e5d",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "1764782ffe133257fe29454ed570cad1dea14b42b49ab37fd8af4444107d83ca",
       "sha1_hash": "6230285bac1510bfcf3a10d0a97d639b357c55ee",
       "md5_hash": "de469a91b390d035e0c22fa8a764337e",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "17d001badc91a8e6fa10766ed9e0d779c7acbb97f1b41582ab073e217e96cfbc",
+      "sha1_hash": "31dce6d6e338188ce4ffd272adf94c0e84e996d8",
+      "md5_hash": "5060438df06671415a6f2e614405420b",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "18b60825348e063c719f443680ba8425dc968ad9cfb4f07f91fea89e2b2d1f0a",
+      "sha1_hash": "b5619bda677a9bddc555027e7790cea35a925f62",
+      "md5_hash": "c5521f937b54a93aaafd7ee393c8c598",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -357,6 +456,15 @@
       ]
     },
     {
+      "sha256_hash": "1de8cc759a2be49858cc983e5a2b80cb8129f6f6060e87086d8b14af51fdb614",
+      "sha1_hash": "649be338c345b595bcc34947eafcd4824e4a3906",
+      "md5_hash": "84a620dcacf1fad3e282fe6f8cfb529e",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "1e6423a9e01aa7b73d2c64cffbc5f5e5f44360f38661da8de371c0035a167c6f",
       "sha1_hash": "e70bfea2ae1a6a3d666c5109da52f75db7217a0d",
       "md5_hash": "ea27a1e586242918416fd2d7c84e5555",
@@ -402,6 +510,15 @@
       ]
     },
     {
+      "sha256_hash": "20ab2fd5eaf5c0a332e024373e30a2dd16819a6a1edc36953906c40dc9afdb6a",
+      "sha1_hash": "d851ca4be9482e8ee538ac97579b18a06e0ddc17",
+      "md5_hash": "5a7abcf4410f973e04c291a45490c1f9",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "20bfa53acf272f5e6fbada795b7444dbd2f7aefe1037e6ba5ff11cddee5b61b1",
       "sha1_hash": "3a0bbb10ea8ae8e6db111c6fca3bda437471a020",
       "md5_hash": "2a60561675dbc25ab068365a1a612fe3",
@@ -423,6 +540,24 @@
       "sha256_hash": "228a46bf0fab0d348372dbd7f0fb4a3271c508ff09abf530d73942c0a123b48a",
       "sha1_hash": "34a23e8958c94a419676ff30c02b3569af86c68c",
       "md5_hash": "fc7177dfc502030956377717c4a50f61",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "230f3d74004fee235055e786aba413abff2ed5cf4faa1987a070493be28c75d1",
+      "sha1_hash": "0bdba6764e5384f8810a7006899cb667f7abed69",
+      "md5_hash": "d55ee912c682c9c6aecec279681c6443",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "236c398b092c14358b149429e6cec4138c41992f64c01b99608576a2c3aa20c6",
+      "sha1_hash": "8299754530808127c00b9109c34d2d4078180e5e",
+      "md5_hash": "38fc481d5960943f887bd43f30ae2ded",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -519,6 +654,15 @@
       ]
     },
     {
+      "sha256_hash": "290cfbb66adbf41238bb837955c15b6a62bbf4811bd81f831195e95513b91f09",
+      "sha1_hash": "c8a6702035bc6a643b08dde33b7f15bdcebb035b",
+      "md5_hash": "4bd6edfa8d6864f053f671188c4cc5aa",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "292a7b8d4cbf7c3b0ea807cbd954018c10404f08a05183adc6ceac55da6c72c0",
       "sha1_hash": "a003fd6d63f6aa59d9a6cf0bacf30d0fc15e2905",
       "md5_hash": "ce41d55ee66d509e1e2043d9e238f65a",
@@ -540,6 +684,15 @@
       "sha256_hash": "29e10e48615c69ef475ea6f203d30281869f5a1979e1e15b84bd74c0643f76ee",
       "sha1_hash": "791e0d2ef94162227d588df66918dd4fd5301c8e",
       "md5_hash": "4f9b84a780b172905aa3bbb23797dc21",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "29e642ef6bd41f343f66210e924724bb343432affd1ed25bf386d638ae79ee87",
+      "sha1_hash": "1aa89ec5de22d8698bb299b5c44ad6255efa7dde",
+      "md5_hash": "93d05bac003f669b8d0cb9d0ac23a705",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -627,9 +780,45 @@
       ]
     },
     {
+      "sha256_hash": "2dd7949bb1d7f945250931bed7755f6c24d10b4faf7df35831601ad7b9a2b2b7",
+      "sha1_hash": "418acb34ca9914d4c05cf4ef97643a5cd8b9d9bb",
+      "md5_hash": "500911f09fc7f9e5cf03f7ad0e6d7a1b",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "2e892b726af9c7088abe86a2452fd5d29a1fdf8be722b1e8b1ccde601f8c34b6",
       "sha1_hash": "aea760d1bd0c8226291e4f5e8e912ade30d18797",
       "md5_hash": "1d1b16ad4f17509da0e12afadd7323f2",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "2eaa082248a55d8e6ec5d3c5910515e0b1f1a9f371d9afcd8f0493eb6e04d635",
+      "sha1_hash": "51e04ab98b43168bafd080441de83c96e4437d70",
+      "md5_hash": "2bdcc73a1d6e9524d08819257d2611a5",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "2f53f658185eaa4ddcaf6e9ca529559a371b8720db09d53103cf6a9e9c0c3e2a",
+      "sha1_hash": "7351195d0cb21569a083dd70a68903766922be3d",
+      "md5_hash": "e52ef1f6efa8f51c077ffebc9e56b598",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "301194c66763022c333592d1a985da1d3a0ef3e87f312f532178cc69e81fb528",
+      "sha1_hash": "fc7262ec2a58b098e8664a584a2f9ae6f05fd28c",
+      "md5_hash": "d9ad3b14308ebd75ceaa5dcff4178674",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -657,6 +846,15 @@
       "sha256_hash": "30ed3d74c98ae9ed141c8ae7a263decef971003199f053bf55676ffe2b1caff4",
       "sha1_hash": "0a2f59224c58ef6451507145ddf217dba631771b",
       "md5_hash": "6d2a244b9f0f6bebe60b3ece6e54a289",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "30ee90c880e5a11e6e1772ca9abbb939a5e9220b23d800d943f7d64d83573ad0",
+      "sha1_hash": "b60709fbe47731811c7360934ec7783d54696d21",
+      "md5_hash": "217d5c8122c77f7ee51af68cda89d595",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -726,6 +924,24 @@
       ]
     },
     {
+      "sha256_hash": "3443a6f35fe0a67eca82926719dead31ba13da6d4e261fb90d61fd9e6a393a3a",
+      "sha1_hash": "d4d7e0205b2db30ceef608292e24b3b1d223c4db",
+      "md5_hash": "601c0ef164e21c0054ee508459aca013",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "3480ec049c45dd8f9e0dcfed0dd5711396ee4f00dc84ada56c6e26ae1bb7a51f",
+      "sha1_hash": "da85bacacc45d3fde6480c38e47ee91351a0efef",
+      "md5_hash": "973d477c147444b7dfeea7becc73d4eb",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "34bd449742ae9d4f43e236b59834874e5b69026b46a64a3658f42123c076dbc1",
       "sha1_hash": "a048624e20fa116fac22c3969c3df880be30be72",
       "md5_hash": "b763cb6f604b03a162bc0a41c0a6df15",
@@ -780,6 +996,15 @@
       ]
     },
     {
+      "sha256_hash": "376ff4dbea2e3570a5cb98a8b335c0503d050fecd7bb4f65d252b1b596d14fc7",
+      "sha1_hash": "bc03f1ba99cfb61c5b09b8925fc2f7a0e9e12470",
+      "md5_hash": "14e70653b82895367d33ec8570c9038e",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "385360a72a60dbadf7260dbd618229bbd57a8022c80d45b853ed82a84aae7217",
       "sha1_hash": "12a6ac85f9e5d3ef491dad8ed5efdd380540496a",
       "md5_hash": "16fa4c27ca17dc908f791ac424ec454c",
@@ -801,6 +1026,15 @@
       "sha256_hash": "3984776e921e0448ba306d4307849827e8996862613e8d536c37de344a5c8123",
       "sha1_hash": "bd1b198cca28ae04a15226018017c4bf95c9cf4b",
       "md5_hash": "c98764cdb92653ca39cd81d3476394b9",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "39b7cc2c0d592245721dd313f7cac33512ac7f86ac65ab009694c847662ae586",
+      "sha1_hash": "7c0aa91cb92d4ba02b182a2794116cc67741261a",
+      "md5_hash": "420303337796a506e84c68ab25f5b6eb",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -870,9 +1104,27 @@
       ]
     },
     {
+      "sha256_hash": "3ed229b621ededf4ff68b9479fdad2cfeedb64c2c6702e6ad5b265135706dd92",
+      "sha1_hash": "40a6dd46c716f297fc9c163b4498f853da25b75e",
+      "md5_hash": "0e3925181265f86053b4174f3886e9a7",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "3f49356f80e909ec2e45028cbdd634656379b4b1d3a198cb271cc67180658b60",
       "sha1_hash": "e79d22e334f426613a4d4ed19e7f2fe75eed2448",
       "md5_hash": "76ef4599885054a50f4d8d7c03668dd3",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "3f4c32fb1eb5d2b2b3c37fde6b1bfd1286575f2983016c1586ee451348271d75",
+      "sha1_hash": "f682a34bc25a401fd6ed5c452b0808509f61705b",
+      "md5_hash": "11f13c95447feb24c02d5123836cceb8",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -1041,6 +1293,15 @@
       ]
     },
     {
+      "sha256_hash": "46376a2e274187d650e8b0b30ffb2bfd0e9fe717dc50e158cf9415bb58e02e7c",
+      "sha1_hash": "5b14809ae73301df7e11d38e474219cb4f4f25d4",
+      "md5_hash": "55bbde9a728861adc50f4dfe75779673",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "4650c743be6d5291bbc1354d50baf0c8bc753600382b8afde02f65e981a68b87",
       "sha1_hash": "3ea4f4b6a34003e38a7e826f2bbd7deb115c9b12",
       "md5_hash": "241a42fa7cad7aa639662608c6e452ba",
@@ -1158,9 +1419,36 @@
       ]
     },
     {
+      "sha256_hash": "4ca30f92aadf9409173eef9491281e7e389a9d9f913edf018d554339b7c12594",
+      "sha1_hash": "96f2cbfaf41c79665fde6daa02ffb3d08a067643",
+      "md5_hash": "6cfeee3ec52dc569ca7f5ccaba4110c9",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "4d702d443ed2aeac60ed77f6fe48c2b7356dee10b2e5e2691da85945d7e72688",
+      "sha1_hash": "2b283e770a10359dc1539b7bbd6cd2f26b6e2c6e",
+      "md5_hash": "013814a7b0cbe71c53959ceda800b850",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "4dbe5345b61ceee178e1b57b032e9f134706bc1f5860832f9e44e7190128c2db",
       "sha1_hash": "6159cf42b20fcba1d350b0893e56674cdfda2b5a",
       "md5_hash": "480379e6a333b21d1b807f85a8a6c65d",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "4f4cfd4a601f3d3800fd981e9e3516b208ec4d986276d61dbef46f8e72831816",
+      "sha1_hash": "6ccd517b4f136032e0dc0f84947ae54f1f421dba",
+      "md5_hash": "3c3be58d9d278ce54efc76401c10ded4",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -1203,9 +1491,36 @@
       ]
     },
     {
+      "sha256_hash": "52770b424a389e606b326221af03dbe770eac840d4f291f32df3deb6a4fc47db",
+      "sha1_hash": "7f6f21471c160eda9af5dbb796a99b410b9bbee6",
+      "md5_hash": "946f4da12572cc7370be6ed6778f3854",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "52a7c28f875d7b399485c4860d930e6a2de40a896a623c9095656f79da0343be",
       "sha1_hash": "2d915fd29d0cb17451011fc822042aa37b61c25e",
       "md5_hash": "a846fe9520c2ed2ce13ff61fe3448794",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "52ba36a6616d8fab5dca1bf15621cf8249b141374497e4d0f4fc32090619337c",
+      "sha1_hash": "f98e68e8edbbba1805ed2608dea9dcb7066cca4f",
+      "md5_hash": "7aa479328724739dbf8383549b5cc5da",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "5317b30169763ebb611bcd68f8ebe6232d782f7e749c412e7a55405d7afee740",
+      "sha1_hash": "d6d7783b3cb2064b002fe479bb301eb746f92d54",
+      "md5_hash": "47911a76ed7eea637edf80ea641c1146",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -1239,6 +1554,15 @@
       ]
     },
     {
+      "sha256_hash": "55ffe288d37d3f6d3c7d52d857c3b69c57277426093569bb31edcdd5523ac7a3",
+      "sha1_hash": "518fcc7e7da5b320f213379e5b40c688eedc9707",
+      "md5_hash": "393471ced10df9aa25350049ad7d3b90",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "563c2da9bb19515c804c12548c0da1af5997b59eb7baede7f7c7baf86b2230ac",
       "sha1_hash": "259c3292c63136158ebb4b82b71643c9c1994950",
       "md5_hash": "1d23a2d11e05b932028b183338e995d1",
@@ -1251,6 +1575,15 @@
       "sha256_hash": "567126e6b01a54465c5df745f78e30d8f6685732b457ed6d41936908cde48514",
       "sha1_hash": "48bc9d310a17b361052fd720393030fb2a3ebdeb",
       "md5_hash": "8b737cf822012ad0ae9595362df7f6e6",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "56b3bd0ae685c1a8ed23c4b9748c5ab588362dd10c2362ee6c7025616122f5c4",
+      "sha1_hash": "80bd3e1902cfb362bd1cbf4cb7fa57a94868f082",
+      "md5_hash": "d06fe9755d63055651d3b5b14345490c",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -1293,6 +1626,15 @@
       ]
     },
     {
+      "sha256_hash": "573ebddf5af1a0748f4998638af860af849ca3d400f5595bdaebc4d77462a085",
+      "sha1_hash": "e7ace4de0e6ea014a2cc8f7d0301c1b8ee132893",
+      "md5_hash": "25030396adc2fba4332b07e17c8c6e87",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "5787b4aa630132d4557605851d767b4dc3d0b9d89f50d2c28f164c6ec6673ad2",
       "sha1_hash": "d4e961923d1b3761f17ada435b1d0f412ba8b385",
       "md5_hash": "c177c732235ccd9582f227bb17871189",
@@ -1320,9 +1662,27 @@
       ]
     },
     {
+      "sha256_hash": "5ac92e22f992004635e0a52c46693e9cb7ad1608eb499663a6a4a6699a359348",
+      "sha1_hash": "5375e9b5a671b3ffea02db3cbffaf4bbf490124e",
+      "md5_hash": "966b46fc2fe926b49e2cdf5573603136",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "5b3f08582ea2e823eb672204c64ac1b563540ae9c21f18a85ce852b876877d28",
       "sha1_hash": "09a93a841355f3939053fd5dcaf7cefaee4a86c9",
       "md5_hash": "08be09bb5778a2bd10d53b66add1f045",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "5ba38fe40bac61444622f34f5644315fa161acceb7e80c6909075ca091c3809f",
+      "sha1_hash": "7331219a0fc9ac1dbd56d1ef3267496f8a8e5fc9",
+      "md5_hash": "bd2732d159565d33ddc05cd8f6b276f7",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -1341,6 +1701,15 @@
       "sha256_hash": "5cb4cddabbea52192fcb11c45b63196a17d017cf639e8adc49d64e1d1e5ac5f8",
       "sha1_hash": "2a889fe001df29c5b039f00f3e25325e07cce189",
       "md5_hash": "9ffdb3051d2820491a1ee0a087651f4b",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "5d2eacac07062b0fa317c0e09cabbbcedb06a57cb0a4f083f25c8c6225c06210",
+      "sha1_hash": "56be2324fab24a015cd33ba3706b594baa6233a5",
+      "md5_hash": "9c05241bbb97adcfe928b71aa750a842",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -1368,6 +1737,15 @@
       "sha256_hash": "5e57ad832d0eba886df242533510228877eea42944b1934951fcb6fb2b9c2c1a",
       "sha1_hash": "3da99558f7682da843d274a5c656e8649565f93c",
       "md5_hash": "29cbbe048cf2055d07e7203844a29647",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "5e901a7e2b0fba0975321efa770302c73488b50faed9daace1b7c37dc5d017c2",
+      "sha1_hash": "d8fc959a324beaa192501f7a4f4abbb2b262dcda",
+      "md5_hash": "e711c165643168c7c547fd5833f8458f",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -1410,6 +1788,15 @@
       ]
     },
     {
+      "sha256_hash": "6067131445517c32eceba112dac3b798367cd73fc4f048313a7e3b9672a807e9",
+      "sha1_hash": "91fe24617835e256a3345efc516ae62373a1e0da",
+      "md5_hash": "a9e6685644937ba4d5ff6128e35ee056",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "61efd8fb1b925fb62b6faf21a884fd07196a846ef1dc682cd006d88ab60ce378",
       "sha1_hash": "e4f91aba51addffd80ae92a7c7563f6ecd1878b2",
       "md5_hash": "343c47f11a32840be13a91094f6ca04e",
@@ -1446,6 +1833,15 @@
       ]
     },
     {
+      "sha256_hash": "6281f8a509aba0522fb93a2ed7ec93cec0396e1a6a166cab74328665fae1b2c8",
+      "sha1_hash": "7386d5ef1a95b2e7af3c4b48e84c42f59f8dd01b",
+      "md5_hash": "a99b863be7e866f7f3f4f88d3ef5b0d9",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "63d4bbdf67d469a1709add4a77c0e5a58112b8482b22bf3e2b4563323980c785",
       "sha1_hash": "71e688c39a4367c5e07d75e46c845b958b524078",
       "md5_hash": "7e1f4555f0ba56fd92f0d7178e0aedfa",
@@ -1467,6 +1863,15 @@
       "sha256_hash": "6461851c092d0074150e4e56a146108ae82130c22580fb444c1444e7d936e0b5",
       "sha1_hash": "05e5da65faf6fadb2a3c8dab2eb3d888ca6fad9a",
       "md5_hash": "b731343b083f999ae0271d19ec92da4f",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "6480a7b6dadd51e2f9e386fbea12f218ecdb8015c76363bbc62662ff7f3870dc",
+      "sha1_hash": "ea136161080a450b89bdc3a661d71b6955a76572",
+      "md5_hash": "d13678086c3307cc6c9b3cbe7532e916",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -1500,6 +1905,15 @@
       ]
     },
     {
+      "sha256_hash": "66b2be1da3c7546f6356f0017c07bbe9733a42c4ed06ada7c61a75d7200cb02e",
+      "sha1_hash": "9adec70a22aab03984592a747cf2bafc623fe9b4",
+      "md5_hash": "37db4fb67e3dec1f7798547dbfa7335c",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "6736bdd2423f72e601c9aa3f2d7aa97b1d1e7dd1c8134cede09d74cdfacf2a3a",
       "sha1_hash": "3daf2954ee6bc4725456e4636e1a522f50f303ba",
       "md5_hash": "b0ec82a0565562dc997989e60a81b481",
@@ -1518,9 +1932,36 @@
       ]
     },
     {
+      "sha256_hash": "67530f6cc30ac3dc55717a8ff276b588acbd8849fbd79e821bca9727c20c249a",
+      "sha1_hash": "a57d8f915bed09fcf56b7f431117a4642b56fdb5",
+      "md5_hash": "2191424ce72d4b1bbe55fa317b44eee2",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "688bca48ba4194561672dab19c8bf5d3d8d6be79515da70c467388c064d61220",
+      "sha1_hash": "f081a9b94c47bdf165c945f0d5412e286a6ea626",
+      "md5_hash": "e01cecff89c4690f158cc4cf2dd7597f",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "6993d0ce074816c4f58761aa1579104aa5b95f1dbbf32ea70a67f904f6023fc6",
       "sha1_hash": "599d4fc854764feb2dbe306248d49aefb36ea11d",
       "md5_hash": "e057c4e7b37b3be1dbb6977af5db9b0a",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "6aba3978a19329633ba45cf011f7e606ee08478b3fc779a0e927de45c9ec9cc8",
+      "sha1_hash": "18a2d811d8ec96e1aaeca3a38c790c249897a42d",
+      "md5_hash": "b1ed4062720726ab62116de246c01fb0",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -1554,6 +1995,15 @@
       ]
     },
     {
+      "sha256_hash": "6bc1ac4f844a6940c9e083c32bbf3f469b1322cc5aa83e12ab1a7f35cdb51c23",
+      "sha1_hash": "8cf89e59bb4d4723f86bee09a087cab95466a473",
+      "md5_hash": "eaff7697d0bc139cd3f2c2527522982e",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "6c943681c28f5f6adb65b48cf471ca09d9e02b7f67338827d423cda87aa35327",
       "sha1_hash": "e209fc019ab1b45cdcfb2231e47c93ca3f497709",
       "md5_hash": "f3109e3234a83452de39ad40a285a5fd",
@@ -1575,6 +2025,24 @@
       "sha256_hash": "6d485906476c519ceafa132d909a522d5eeb6c7368ca35bf05710968a47d9b68",
       "sha1_hash": "656d8e3e3eae47dcac9765c932379cf349991b56",
       "md5_hash": "424d474edf0223a49156e126261cf46c",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "6d9e289582ac902fac5ca1ce12b9e5f24c5742d28db90d8aaf10aba71317e5ed",
+      "sha1_hash": "46d73c2d962888336978ad6139cf778f3576d852",
+      "md5_hash": "ad57c0d19aa6424b5c691150d4a29a60",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "6da8e49d8e083ec705985effa03cdb60cdd736f04ed711211b2a3842c815a708",
+      "sha1_hash": "98ff85cb039c913aa902669b12207ca9db938aba",
+      "md5_hash": "9be332949fff5d1c9492c2c93f12aced",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -1611,6 +2079,15 @@
       "sha256_hash": "7249d9400aaf7085a2369dde12b161f779ab7c9767744c05392c14a69df2b112",
       "sha1_hash": "cb88b0e46b5aef7eb5e53454673e7b2e7e132dd2",
       "md5_hash": "f2e532bb52b3241030495ac0b3b006bf",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "730862de1bb846e0effbe03dfe0e52ec2dc72f61c384fcf760c5a4e519999118",
+      "sha1_hash": "3dfec37fc431f90852cf0409d6c0314e50a54bb0",
+      "md5_hash": "9764064fe0987903056d5aae34dbd162",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -1671,6 +2148,15 @@
       ]
     },
     {
+      "sha256_hash": "77bd99fc14c25843d7ce183443119b5d7a1f524c00f5a9e2dcccc22f8dae6042",
+      "sha1_hash": "b61860a7ef0ec87174b92c59c6b68265a32619c4",
+      "md5_hash": "40981142bcde486676e5eea7bcdfadbb",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "77c884ed5577aaca47dc0ee9152c4831bc6d9142db0ef2329980487b7d1c96b6",
       "sha1_hash": "95f153f68c9aef2e56af000e5a6d11e6e4e134fd",
       "md5_hash": "743a8dd0c47ef03598ad4e23123d610f",
@@ -1683,6 +2169,15 @@
       "sha256_hash": "787c97c60bc80116fc6d83d2087ee283e3431ea3e466a5924ea7643df7d5aaf6",
       "sha1_hash": "8bb50aa056ba49f41b846499bde01dc04be492bc",
       "md5_hash": "cc7c7ed39be8209efad50e2082204a01",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "790b166081fd763cc6239881a78ba5c4d757b8f98d1b5d5f7abfdede76f54c05",
+      "sha1_hash": "87f852299fcbc26dcbd2b13863a8a6b95a7eb887",
+      "md5_hash": "7a4e9e5692e0031e130dbc41f3d74b82",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -1716,9 +2211,27 @@
       ]
     },
     {
+      "sha256_hash": "7aba840cab8eb7550f125127b2cd2de247dcdee330588f05dfcf5d54951dbb3a",
+      "sha1_hash": "46fe9939e2574fbf993f0cba37f157049dee3488",
+      "md5_hash": "c0234b268d9360134d50230bc76f2ed8",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "7ae7bf6fac7ce2f6cf2c5312bbb2af7978710ad6087e3b487c7472b7e4718e4c",
       "sha1_hash": "5034453ad55c2ab23ea71193c1fc2b8e17886870",
       "md5_hash": "db311beff16b8949a5ae6d691fa478fe",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "7b3262b6c3ad52e50e2ec6faf1ffb12ca08f0d17ac4f90420f13a6053b7f9622",
+      "sha1_hash": "a5cd2dd1be880362a2b376e80981aa5caf69aa7b",
+      "md5_hash": "215eb7fd4c261e17a696e8ba6a4061ed",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -1746,6 +2259,33 @@
       "sha256_hash": "7ca2de8ef3f42106fa3a0ba0c7b6d1cde0b30a5374764e4d150982152f9e03e8",
       "sha1_hash": "420dccbf55e94d33fc633f7b0eb41a12c624de77",
       "md5_hash": "4634d2665f8349cb126119f5ee6023e5",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "7cab5be54ea256801ffbb8c5f14bbe8acf8c8edf4b14bec82a8e73f2a22fc229",
+      "sha1_hash": "8a0a4a6524c4fae519ca273f427a067a80fd6b5a",
+      "md5_hash": "e27a6a678d2a3391d3dedd7f6b5bcffe",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "7cb31ca2433ca9061843408b8959d02989530f9077dd5142441067ce5418536c",
+      "sha1_hash": "a1354ebc127afead6be161cb5cfad0d376fbf9e9",
+      "md5_hash": "dd085098a1ac3d191e0747e717e986c4",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "7d8e12a1999d9ec09e8560c7fa05b9e41fe6def5a94f166ed2e591a376373a36",
+      "sha1_hash": "5025584ab78059348c5f32724c37a18717fb75c2",
+      "md5_hash": "c29b55edee3c0ed82d47c5324708af37",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -1788,6 +2328,15 @@
       ]
     },
     {
+      "sha256_hash": "7fa3d58a0056e8492a84894a6fd3b3d0d87ff1f9656f5e54b10580b9a4a4fd6a",
+      "sha1_hash": "0694c99741258c9609771c544a647f6641caa138",
+      "md5_hash": "4f007c674721466ff8af2d6b8b0e6040",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "7fe0933da873ec8b10ba09ebcf26dd43f46cc72d2855a9c7a7df1eff795089a3",
       "sha1_hash": "ec8055ef65e29f71bd265131447016c0a81b59b6",
       "md5_hash": "94135149ae7347873663d34e78791970",
@@ -1824,6 +2373,15 @@
       ]
     },
     {
+      "sha256_hash": "80eda7033269de92848ac375cfdf33b0decc441bc963fa69cf12eb300aa4669b",
+      "sha1_hash": "ec8657f364574c5ef5deffeb69cab9472387373b",
+      "md5_hash": "c93b941b651c60fbac0c4b7ed074fc43",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "81ccf768306083c01093f976cf0582c30bb4e6007fde84c3cfff11c4724537c6",
       "sha1_hash": "bb02b382f6ed2f9972125aca33a371f718e81b56",
       "md5_hash": "7fdb3b28ca96d3dc85fa6a5938621364",
@@ -1845,6 +2403,15 @@
       "sha256_hash": "8292edb44cbcccfd86e0b796ffbdc87f47a986c4572536d1ff09062b8dc1e7c3",
       "sha1_hash": "0021131464888871f0cc7165bf903aa2696fe513",
       "md5_hash": "7f4db682f0254e14ce0509e0172869b1",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "834702f8a9d0b943e9aa0371011171176818bbca1b49f1e6e1679fd6b604447c",
+      "sha1_hash": "be91b6337f31ddac31e742710011e8d9a0ef7ed8",
+      "md5_hash": "f5adc75f5964b035ebeedba63038ae74",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -1878,9 +2445,27 @@
       ]
     },
     {
+      "sha256_hash": "85a508d7a33f455aec8a7f735630b27ef6d2963a0d7469801979d6f06e1742e6",
+      "sha1_hash": "af2fad9c405246d80981f596d2dc2b6605b439c6",
+      "md5_hash": "f8cf53124194268ff601f364d00cd52c",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "8610f9d818e8f7fab8f361dc89dff0d9c68496bc7dd5f3f5b68637f4cb5be942",
       "sha1_hash": "4c902b844cc6d64f8625f6b13ad8111e386d39de",
       "md5_hash": "43b20600f1ad85d8c2e1e348f1b7e71f",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "87122e2d4341a44298b65c15f36571b1a9aba0b89717acd5cd3f8368cde034ab",
+      "sha1_hash": "f36e823da5e4377b5b36f18fc3eb535d2ff3200a",
+      "md5_hash": "6ff8385509f1f180a1b60b49fcc33406",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -1896,9 +2481,36 @@
       ]
     },
     {
+      "sha256_hash": "87ed81b1df08c8451b50c51a2ab934be94acecd263ecba0b0b7f48c4af7cb454",
+      "sha1_hash": "d691b6d74587569c227dc1dd7386c1f0251dbc78",
+      "md5_hash": "524a328137d3361da73c0b41501767fc",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "88cacdcccc6543eb9a045a9c9aeac6ed984ecc1ed44a523db1e269fe21de0cbb",
+      "sha1_hash": "02122b9625ee46f0fd08ccf1170755fee667aaf7",
+      "md5_hash": "e37845e73167afaf1d5624383eb7b2df",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "88ed55e408a69ac963bc80173be23e143c605657bf57c4227a35771a6c24767e",
       "sha1_hash": "9d40350f1194efeada8ed52768d55b13baa2681e",
       "md5_hash": "b3ee44a7f894adef3db53028bb7fe443",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "8a2f6ff8aa1a6b416cb0aaa1530a8178c53760a69ce5c14d1d16ee880c335a4f",
+      "sha1_hash": "1d7f85d3b91fad635193349d5903f6b1a4f310b2",
+      "md5_hash": "18ac895a5f348d2a05d6a07a213d84a6",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -1926,6 +2538,15 @@
       "sha256_hash": "8ab0cc691c78560874ec8aee5bbc77a613d41b5e3146bf06a958cfaf436af92a",
       "sha1_hash": "c2d7f339d498fdbee162d0ca1951f938cef9267a",
       "md5_hash": "4987b3f2f7e4e11c77e9177ae6f93eff",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "8b05684a73f44ed82c0faf424b2d41a0c7b00c2fef4d7dc232c5433739a59f6c",
+      "sha1_hash": "222c048d7c746a4d1d56e9fab8e30d6a87492eac",
+      "md5_hash": "7e7edf3b1f5f0f4bdc77af7a3a5e34c5",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -1986,6 +2607,15 @@
       ]
     },
     {
+      "sha256_hash": "8cfec8fa2f09d0d7d3b8f9a07d45e2b709c1cd5785964f7c745b81fb8a472c8e",
+      "sha1_hash": "50254ed9e4e13a3fca6470c83dcd9b06171af8dd",
+      "md5_hash": "33b2e37b4ee06fa3b1e3fb0879c6f596",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "8dbf0e724607da43ce49de9627823e6b372d2d923c76f2df48295d704276eb95",
       "sha1_hash": "ea9ce9aee967feff36a96b5e44d8f1242c6d48cb",
       "md5_hash": "c5d8d4f06a57c930860d615743f3ec15",
@@ -2004,6 +2634,15 @@
       ]
     },
     {
+      "sha256_hash": "8ef5fde27bfffcf02fb982c5a4d2a791af1156d15ac0dfe3379b9e0b363a869a",
+      "sha1_hash": "1668ec731191027dce4ca08e76bab25e1e051f43",
+      "md5_hash": "fee597bf57d2f085927511a8df00b503",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "8f3ad03ab795885ba9653d7137ef6578e4af76f88143bedb57b07f3dd5b5f775",
       "sha1_hash": "0da3b66ef05351791d3869d92e21e21e121faa60",
       "md5_hash": "2d8956849f150a296f576b501b30e2e0",
@@ -2013,9 +2652,45 @@
       ]
     },
     {
+      "sha256_hash": "8f53462121171941ef430e01573694c09b5b3cfcf462d54b1829e18d93e74f55",
+      "sha1_hash": "c570b018b0d0cb3de5cf7ab3916779605ad6fefe",
+      "md5_hash": "46a624253b4004ac715ca103560999b5",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "904f53abd779516dc6a097728d7ecdfa27dbbd2760d4045193a817fce3d7462d",
       "sha1_hash": "656ac2cf70f96fec3a36ed397de71a2605e9f3f0",
       "md5_hash": "4cd93bf4cbf6c8b569d2c2e836a8ab20",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "91a2d790366e433f18036a85d935d7e628c652c35b00427f6ef809fa9ec1f69e",
+      "sha1_hash": "fc1d45f0f81b6da49dd57d4342d5510dff5dbee7",
+      "md5_hash": "7ca82baa3e7eddce41a25bf071216d1b",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "91e5c5dbb6e64f5399cd4786f2e91192525b6582a088a8b583a7599a82838567",
+      "sha1_hash": "78805a1d5b1f9c9c2c6dbf83752d39f27c795b3b",
+      "md5_hash": "e9476ead29f19bde9b3d61f166e63aef",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "91ea28d806758f7f34c1f2b3eeb2607a09f32b145731a356dd5a0b52fe80ccaa",
+      "sha1_hash": "9609b9951b9bc80885bdf467c671360fd41301dd",
+      "md5_hash": "76e87db29b501d19ca7f879a8130a3bb",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -2034,6 +2709,24 @@
       "sha256_hash": "9291e086a7bf038da680b7c9beb84b23a98ef2c9a79e0b11a3be85232839498a",
       "sha1_hash": "3c5fbf1c196a115f93a4a258c3153ca8a1df9084",
       "md5_hash": "382a50c6478a1d1768c0069bd129cb75",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "92d28775d0fcc36c94e81891dc5fa0cd51e390b4fee0b835fdcb129f545b926c",
+      "sha1_hash": "3fabbecd982add0ab97f9cbabb2f446ea8953521",
+      "md5_hash": "d78baa1bfca2d6a062dba372e39e2755",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "92dc910b5df989defcf8733985776f35797681ea11bc9da2432b6dfb589b9778",
+      "sha1_hash": "7c6ce38d9fc0843c908c17e6293b0615eb9d6201",
+      "md5_hash": "57f07617681a61f549be71d962a717e4",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -2094,9 +2787,27 @@
       ]
     },
     {
+      "sha256_hash": "9418e647704aa6bef5852ac1c4ece756fba1878aacffd489b30e4d10df273890",
+      "sha1_hash": "785cf0a4f2c5df02f6c92f62883348fe2a45e505",
+      "md5_hash": "a8a4765bd84b73402212adb6060880d3",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "942106b0a31c6d963788c539a2a764cbd190baa5cbe80a1c90be67751249f535",
       "sha1_hash": "2484aa1aa8d7324d290e49ce8e2ea3ddc17fa6d5",
       "md5_hash": "2148abb74558f4ea968cb48ac31f2e48",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "95daed761fda53bc7acdce7b880c1cb661bf75988084914e0958d33314768fa1",
+      "sha1_hash": "7bca3dcf78d1fac90dc140d12a80fa95a9a60d1b",
+      "md5_hash": "24142fc156fb6816a3d7a0f7c6e3a3cf",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -2115,6 +2826,15 @@
       "sha256_hash": "98b47d5dce64e3454d1725401754b5631082169098a314971f575b77358fd414",
       "sha1_hash": "6a9002c5ca50bdd1e2c4ce55b42c3819c0b8cbec",
       "md5_hash": "8e8b12fd916bd219af9cb51c632ce6a7",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "99f6f275c284d8548dae4e9101eb292f8b2f1c7eaf2e89032a1695ab960e7615",
+      "sha1_hash": "4d466b462c8bdcab82ecc8146b5a6a4618dfaf20",
+      "md5_hash": "01b88cefe0c5c3e8a31715be33cacf4e",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -2160,6 +2880,15 @@
       "sha256_hash": "9b9df9e5069632aca602e48c5309be602b444600aa48f2f8de36cee0e36fc79c",
       "sha1_hash": "25685b53cc1c92a450a21f6f60e062c29cee249a",
       "md5_hash": "d0e1074468166b69ea39ecd9afd68442",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "9c136701362e2d661805257c02e23c9aa01b9081e1a559571f947390522fc51b",
+      "sha1_hash": "57b3a92819027caf9872d1e4ea854686510dc89b",
+      "md5_hash": "71896aa37e39028680b628cb05080028",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -2256,6 +2985,15 @@
       ]
     },
     {
+      "sha256_hash": "a3094acaadd484c6bf7d3117879dd832a6c9008cda4f6bf5c23b81a296c83532",
+      "sha1_hash": "9ffa2515569da49df67fe8fd8f1dd4604d35ea43",
+      "md5_hash": "56dac53199a24ad9de59ae15f3180dc4",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "a341c6ee3ed053c5fb45873272e96667f585209dd102a093212d3d5d632558f6",
       "sha1_hash": "d1b928ce0eebab063cbc0f0103ea6f9e0a75a04e",
       "md5_hash": "52e2440f059c200d7571f58fa584494c",
@@ -2319,6 +3057,15 @@
       ]
     },
     {
+      "sha256_hash": "a7420fc26e74c2bc885015b749fa4504ea19dd08fdbff9412ee028ec23ea83e0",
+      "sha1_hash": "f70a24f2428708b1476e2041b4fe7a9ee46f1f4d",
+      "md5_hash": "ad6ce95b509e084612dba688ccdd919a",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "a7e6348f990e0ab400e7a5710922c5a3b02050163e68403175524197bbbcdbc4",
       "sha1_hash": "ecc9653b0a5781eafc3b376f06949537f0aa0669",
       "md5_hash": "366c4881c7e2fbe5891334c0f54bda5f",
@@ -2331,6 +3078,15 @@
       "sha256_hash": "a890b158dbbb235af90a92c0b48a0add6a8ae1e3487faee1847432c902a45d45",
       "sha1_hash": "f87ef60d7c133b4f2982fca65e981c7d01547671",
       "md5_hash": "db452fd4bc28c21d09a0212c852e4dd1",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "a8b3bb8cd8e48cbad66a3fb77f9cbeaafa23c6881187aa46a7ddf11313cbcbca",
+      "sha1_hash": "02b2f6203983ba9eefd719b4b2a30c302e15c6a0",
+      "md5_hash": "265353259d76ca55a91ef55c9f75334c",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -2364,6 +3120,15 @@
       ]
     },
     {
+      "sha256_hash": "ab85b62cad1a4009bf99c621b4950ee23c413b5c424952f225497bca7a318a99",
+      "sha1_hash": "e8575ac8924c6600e3ad00fc93f557ae63d542a8",
+      "md5_hash": "d5b765f43eb431f3a4b8e49905282843",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "abc8ed7b95b86bfd0552a20af4108ca23a79eefff54737b51d5c2fd3e260cad6",
       "sha1_hash": "40ebf8b64495b8b196f8b868dbb07d7042ae4ba8",
       "md5_hash": "4c4ea78fa3770c3a4e3c0873de5075ff",
@@ -2391,6 +3156,15 @@
       ]
     },
     {
+      "sha256_hash": "ad1182d8bf3b1976e09f45b91085167559bc24e8f5e3f7315f96f344532cbcf8",
+      "sha1_hash": "01b4ccd93e342d41c5ab357bf09472e84e256762",
+      "md5_hash": "7c203ad3d565fce177adf272d0acd373",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "ad717ebf3c5efad68af0a3221ba3d2d6ee27682e1f2c303fe2f9caf181448d46",
       "sha1_hash": "adc1f372220fc332e6827671fa96f1c653f21867",
       "md5_hash": "0fe5393bc55cd3713423f272a3133728",
@@ -2403,6 +3177,15 @@
       "sha256_hash": "adbd1a4a2f154265ba344d77634eab720a2e9ea52335b3b43cd02554d4f739c9",
       "sha1_hash": "dfb5cd237bcda08f4d74c5e686550cdb0d5fc37d",
       "md5_hash": "c158566ef780149392e380d26b67950f",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "ae556cb517a71d45a4ae6f0ff6a4d067aadc5388dc57e16dcdbae2db97fcea76",
+      "sha1_hash": "551239ef5775453afe819c33b257cc3aeeee559e",
+      "md5_hash": "fa84264ee063689f03ebdb2b86958235",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -2427,9 +3210,36 @@
       ]
     },
     {
+      "sha256_hash": "afa3c43141a5b6f2473d49cdfa0bce1bf0af235a40f3ec092299287291137841",
+      "sha1_hash": "d4cabb3e134a518c88e4856e63756806161d8e3b",
+      "md5_hash": "63890a15099a0debd9ed2a3b2036c956",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "b03e2fa0596af977e1078099897ff3e5c8340848f168a28e9be06b7a2ad9b10c",
       "sha1_hash": "011e2def0ab9f2ae60348233dd3f655dc12c4a67",
       "md5_hash": "61261348983355398d061723f1e0dc27",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "b054406ec8cca73b7b95b76d883b06621d7fd6b1248eb5b343ae520b085a1fa8",
+      "sha1_hash": "fdcef0a07b0e607cc752b25ca82730b94728a6d7",
+      "md5_hash": "c4e478d5db7a7fc082e5ea4d08815a53",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "b0820c7de3107b5c41d0c9a2426ce10fb73ebf70cf866307f2d3282b921e8635",
+      "sha1_hash": "89d2f573d8ee658ba91e0de0f8427f30fff04ed9",
+      "md5_hash": "0fc6601133bc6e7ae614bfd0a472f102",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -2445,9 +3255,36 @@
       ]
     },
     {
+      "sha256_hash": "b12f86a3f140445fb6e4dbf242bcccd4d8cd4fba8733e94698cf1ce6c9c4f56c",
+      "sha1_hash": "13d151a8639f9d9763a1cfea96e2b3da53abf5d3",
+      "md5_hash": "fb31acd1db9c2ee062126cf37296e713",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "b15755d41bc16568494da3372df4442711c9eb0b1dc5ae7898a2f01d0568c8a3",
+      "sha1_hash": "2e066938bf9e06547f179e6555187181017ca843",
+      "md5_hash": "a9abb5699c9c9902a4f925de1935d9ad",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "b1820179fc4818e3939b63113ad5ab22efde2ebae63c1002fc7d90debb59061a",
       "sha1_hash": "ca97d89de7334b9c4b1bb7c6329ae40619edaea0",
       "md5_hash": "c5d68490bbda4773ea03caff9f264428",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "b1cf78b086b1611faa31eba09b1e1e4be9fe1d0b48445e961160936c968688b2",
+      "sha1_hash": "a6996be48b5b0a516da73352a039861f20b8ccda",
+      "md5_hash": "87519074d04e8a2e308a57c78bc26a96",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -2472,9 +3309,27 @@
       ]
     },
     {
+      "sha256_hash": "b2becb9ae44822f4786e28fc66392763e3e04ee9fd2bb40a8268bcb3b61fa21e",
+      "sha1_hash": "93737ec69a02ea252cacaf617670d98f44cdc652",
+      "md5_hash": "245004efafacaa64add5ce3aa63af05e",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "b2cf863aabd48ace2c63a8b56cb683f5007fbbb7a97b1e87a079e3efa5bc4dea",
       "sha1_hash": "32d7e6383712ccc7b71ca6eb9be8db1f7a25ab71",
       "md5_hash": "6e514393d2c35ea58ba0853a83fd455a",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "b32606cadde96a5d29e1e8ced40a38dee111f59f65a9dda68fa0726c7e232792",
+      "sha1_hash": "a22880a1c10376806fe63547effd870746fed6c0",
+      "md5_hash": "deffffa79ef226801e8b1aafafd7bb7a",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -2538,6 +3393,15 @@
       "sha256_hash": "b7b3d2b135cb5ea706b71f7d78b2cddd190bcf24b13ea252aeab2499f7cbfedb",
       "sha1_hash": "51a43437ff8a6348bfa55b9f14d16522adb29c3a",
       "md5_hash": "c79008bff482fdc770e68d7d47404c00",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "b7ff30b39826db33a85fc677819a958cc9307ce2c54dde77c3e1239f39e6ec36",
+      "sha1_hash": "f81cf7f542e133e3b34f8584ad6ba5ac64a9c118",
+      "md5_hash": "0932738ed4bbf0a5ed48919087a0b5d5",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -2688,6 +3552,24 @@
       ]
     },
     {
+      "sha256_hash": "be6716415c8f117ac0d290833825ac7ddab7f18666cd6e68218db31f3da357c2",
+      "sha1_hash": "7211bd56ac1466abc6a6202b800156c38e111c9d",
+      "md5_hash": "8b8d7db29e70be64c18a1cc8d02da680",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "be802f3f35601bf502d86916399d1d8757e9384020f8428d0632325e17e254fd",
+      "sha1_hash": "2a4811be85e1a3dd9d53453ec00cc7514fe234df",
+      "md5_hash": "d67bb3050538c6de14e9c82b836fdafb",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "bf5f36c09b299cea6442e1160abd49e3e1c0cbd84ff594151317cc95469da09e",
       "sha1_hash": "5dc3f748539894158a29d04a0ea737750f1f0354",
       "md5_hash": "60e5a76e11dcb3d6b6b6cb30e4290cab",
@@ -2706,9 +3588,27 @@
       ]
     },
     {
+      "sha256_hash": "c08d0cdf50b9b6819354622c5f4d6f02e84eb921213c677e067e8005e5b5d3f3",
+      "sha1_hash": "88bfd15dde3deb745c7de4d33738197c26476030",
+      "md5_hash": "ba11b7d9ed4df2a23358ea5c82b1307a",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "c0dda8d579928f0fd1e3e7335940298494a590c60334d0ee420e8e5a9da9329a",
       "sha1_hash": "35aef68175bb7db5cc28b51ad9242dd05715c5b0",
       "md5_hash": "51694d01496cf69991fdb38307ce9036",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "c0fe042f2c71e1ef7b9bdac0f7ee6a88246b12d7a70c765b210fd1e56ab9e042",
+      "sha1_hash": "5fdf534e440922c9aa3857e542d833907512aa7f",
+      "md5_hash": "a45c259dc85383a14c694f24ea2ccc7f",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -2733,9 +3633,27 @@
       ]
     },
     {
+      "sha256_hash": "c160f3d1d4559482aa8f614e74c1cbd33dcebc2f7be5df622ee1ef3cfb052593",
+      "sha1_hash": "ef0a17ed409896959fb93e5f6d62c14e3ba5422f",
+      "md5_hash": "67bc18eeaca9ec3254394dcce2e3b0a4",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "c1634d86ddc52c467bd21a9e325d23f5400c970515f927754d248ceb3e346878",
       "sha1_hash": "5948951a86bb68987238f98773a959bd3cc1caf6",
       "md5_hash": "3e65dbf2ffa436c521958addc1f3cebe",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "c1888f4d1a64c3c6e000d7b941960f2437c5633adc87ad3f01fcf935b2e92f2d",
+      "sha1_hash": "fdf7b85c2a07437ed2ab161f0b2822041415d59f",
+      "md5_hash": "c1190237f069ab2e4a94a06de55a430f",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -2772,6 +3690,15 @@
       "sha256_hash": "c3a28d3c1de4ec5570719cfec942d3ebfbe62e42f090e9360c38375b0070b2ee",
       "sha1_hash": "1f15e2878beab335b4a023c62e478346cc368f15",
       "md5_hash": "27c3c855c1ce4de51447d9aca1ec9eea",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "c3a9e6a732a84fe4b81b1baeae069ec493e06318fcd5e64292f1ff6cb1f1caa9",
+      "sha1_hash": "fd1d075c7096998cc8992d18f4f9df0c853130e2",
+      "md5_hash": "e8d1dba8557e9cc05e776c98cb1d4487",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -2850,6 +3777,15 @@
       ]
     },
     {
+      "sha256_hash": "c7b70983476d34b4055791c78b2bdd8fee01523cacf0c3bdf01a5448755e4cc9",
+      "sha1_hash": "e5f4bde5cb777bd9ba5ede425bb7a77c1819eba7",
+      "md5_hash": "38eb4cee8da1cbc3c854c6fc6be7cced",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "c906b84d93ff051ea14dd74fa5b1edd70785a682b391288a33e3c03e5814ff09",
       "sha1_hash": "3dc5cf5c0dbcdaebee15de9149c498ff1ce34bc6",
       "md5_hash": "da5a1f2a079b8e91b44f53860c79b030",
@@ -2889,6 +3825,15 @@
       "sha256_hash": "cafb70b386c68dc21b7450d3859a18363982fa1e8e694346c45b7dff70ee5531",
       "sha1_hash": "0c8cbb81694d9368bdd24a0f64158a969ac8ea25",
       "md5_hash": "4ac7ab185792c435a17af0e2ddcd7f99",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "cb0cdb1ad01fa87c11eacbbaeef9f646206ec99046c32f3b3e467bb7f6e265f2",
+      "sha1_hash": "458ac281f8f8009d305b4ae54de471a9947b8595",
+      "md5_hash": "a866677465af94df5d39d72b2c3751ef",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -3048,6 +3993,15 @@
       ]
     },
     {
+      "sha256_hash": "d1f1b5aa505a45bc51284f4ac68ece601b3986adc6249370eaf56aba0f4d05ae",
+      "sha1_hash": "a8d579b8d22d69be927816537a218b1df9c1f1c1",
+      "md5_hash": "903c3d0e0a648734c44bbe2577095519",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "d21b06d6862a661685a1e3a135477935d72903bd957175d113bfbba011db76b2",
       "sha1_hash": "083369658ba5ef563c84db4566862901bace07bb",
       "md5_hash": "54e3cecd715d7b795a0a06529f95dedc",
@@ -3060,6 +4014,24 @@
       "sha256_hash": "d26797f6bdf78aead0767daeb12866d0aeeab100763169a7245dca2aac3f7074",
       "sha1_hash": "05c1b36f3c4d67c637f318b246d993ef589f8bb1",
       "md5_hash": "d3fb57577972993dfb282cf7b2512bb3",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "d2c519f378a23cb9a912d7f405a0a391610373cd780087079e148f436afb9238",
+      "sha1_hash": "b4f9898b4cf71fbbc52d05d645549ac9792c159a",
+      "md5_hash": "9c72293e5e1b91d4dcab9f2c0cc4983e",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "d2ca33d391f99b12f7ad275b4d8662c19a0b55a92df3ee67fb6f7bbc21720e99",
+      "sha1_hash": "07a6ca254b97333208b271090ff49b80d49ac1a5",
+      "md5_hash": "da9c5f1deaf695cf1575f6f881c96f0d",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -3129,9 +4101,27 @@
       ]
     },
     {
+      "sha256_hash": "d852f48e1c8a37d11f9dfb90f339316a5a3fa012bf152db43de1e81b45a69ba7",
+      "sha1_hash": "0fc8c1e2c08fd3dc83ceb72a4848c9aab66b7d57",
+      "md5_hash": "1150d0bf3a077be4f33eb487129d389a",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "d86da41bbac1a8c9e04313f0db3c76ab661692e83c218b673e038cb75e42994e",
       "sha1_hash": "ddd76dd8e4de655d7d67aacbec36694e8e221612",
       "md5_hash": "c863eac37df1b80de26334d6dfce8aec",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "d95ee4cd163f7091b8e987904a9ff72c457546d12385c24116a7bfb7bb0f892f",
+      "sha1_hash": "8b24cc88cd42bbcfb3df85c477f0e13dd5909b3f",
+      "md5_hash": "1ba77216c0aeb486f180953d4caca0c2",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -3183,9 +4173,27 @@
       ]
     },
     {
+      "sha256_hash": "dbda12187102afcb75efdd6c933f1444cb72003b234a561c31b5ed0256803918",
+      "sha1_hash": "097922ffdea3d8b5e27d0d329d371a8f98104be4",
+      "md5_hash": "215526a1cb248704ea2d655aa8e086e6",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "dc9e6b50f4a788f2dbc00107b21543f1e77f4b49a03baf7ee1035c56fcc2083a",
       "sha1_hash": "211451ac9357ad668c5c0c450fa67ba5c8de340e",
       "md5_hash": "139a89d2fa3791f8795491b52f92f9b0",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "decab5c7e9a8d42e09aa6df39385c95dc603285374a76d8c8e08a025bb7e1dd9",
+      "sha1_hash": "1cb17e320552e0fa7181845211f479a083eae0ba",
+      "md5_hash": "d0fcc47ea3b8e25c3f3e9c560e185a45",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -3213,6 +4221,15 @@
       "sha256_hash": "dfd29c61f2ee309f42f856edcf3940373ccc7067c8e675651f08381dfe00c241",
       "sha1_hash": "53f7b7633b49a1b3a18919054a3e5b8a98473735",
       "md5_hash": "4ec2d903a2cecff157808c99e50ae8fa",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "e0b2b66291dc66a26ef1b28af7c89150a6effc0deb6203fd445ec18a85e7134b",
+      "sha1_hash": "6fb2daf0dda4d8e09ebadee3285c828f4db82b6b",
+      "md5_hash": "275beb64aa601d6030796b0403833540",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -3264,6 +4281,15 @@
       ]
     },
     {
+      "sha256_hash": "e1ae9cb6769a71809895f96df1d372ed7f1811b3dcff4a9ae998ef30603a5c5d",
+      "sha1_hash": "65cf35a0c4976e4d199ffdd0abb1d978db4a5ff3",
+      "md5_hash": "672e5ef425b05ba05cbb78bd5ae06b52",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "e28b6d0f3f06519f9e80b59351ff3d2fd11365aaa7e15605a2759e4dcfa25363",
       "sha1_hash": "396b24f6dcfa68b4f6cff1d485723a1974d1505c",
       "md5_hash": "2d31f2879d304f58be482b73a6322530",
@@ -3300,6 +4326,15 @@
       ]
     },
     {
+      "sha256_hash": "e5dbed6d9bf0fd73f0d5cd9d8ec84c0637086be38cf59d6b61bbd74dbebff9a4",
+      "sha1_hash": "a625f453cebafbc05f751efacf51fdeb2fb1e03e",
+      "md5_hash": "126c7ad76613be5e7ea8dccfb8a4ef5b",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "e62dd5c6fe0d91734eee31aa71c6126bb86db61adf0bc631edf835e8a5d19901",
       "sha1_hash": "7177b29d04360808c7f2da006d2c1d8072d3a27c",
       "md5_hash": "24310fe710c8b8c0d1ac4d6422bebc51",
@@ -3318,6 +4353,15 @@
       ]
     },
     {
+      "sha256_hash": "e82b0023abcc4bdb549f319389620c4cbd8ffabe8648168db31db62fd84a6904",
+      "sha1_hash": "c618582a61402ca8ea8169178bbf31f1a0be770a",
+      "md5_hash": "0596663c542e7cfb4473c8c8ef86eee5",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "e8b0f14297b687d9e62fc3ff6a08507e081272af955b65531f7848f6544a2b3d",
       "sha1_hash": "d38af03c63569caa5b0a39f084b1a2079d976595",
       "md5_hash": "b3eaaeeeb51f5ef12e760dea50b41d4d",
@@ -3327,9 +4371,27 @@
       ]
     },
     {
+      "sha256_hash": "e94920a1f3c3cfd2d901af1e21ad5d99676f02cb5c1464283b1919e7e853fbe1",
+      "sha1_hash": "1be0edf02b2b2758174e4df3f829177a17d8d869",
+      "md5_hash": "37fbe70771ec45e87751da36c50b165c",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "e974bfe5c6bacbe466b3bb8fef673b32fd7dc4a6cfbbe1e8260b5776af1ce145",
       "sha1_hash": "b5bf43f2ef1751a27cc2f251a7717cceba6daf4a",
       "md5_hash": "a5accdaea323327f083cacefe0683caa",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "ea03949e3413e44d6d05811945786d51f2709785c51bdd208cf98729735bf61e",
+      "sha1_hash": "1dad753718c8eccbdbcf7e487d2cd3243d373036",
+      "md5_hash": "5ccc72c812f0481525f9843572a39ff0",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -3366,6 +4428,15 @@
       "sha256_hash": "ec09764fb54e9aebeecd787011193ef601ff65ff07d3dd74386a3e8282d029d0",
       "sha1_hash": "896ee97b35b65c438a2c736209110caad550e7d3",
       "md5_hash": "95c7d1c7f920fe94e8f1904772601bc0",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "eccf2e1c2d2b3ad44731a6f45c704cb00db8632b1f475cac025c6f655c7b51c5",
+      "sha1_hash": "5c6603a1cab7c7b433d917846c789d1a22e5bf56",
+      "md5_hash": "ef075873dcc182c32a8cd29e76dfcafb",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -3417,6 +4488,24 @@
       ]
     },
     {
+      "sha256_hash": "efc9d49d3bea48fd72d09d1588d69af7c0eb61a0eb72568986116d4a205e4711",
+      "sha1_hash": "a253c047d5690f0b0647ea7c8f7c3bba4f04d9df",
+      "md5_hash": "57027254ee6f14417428bc1bc3d781bf",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "f042f4222e2117e309121b18da92c7402103e3b3af15cba7745e4b8f96e65d1b",
+      "sha1_hash": "23008a93cefc885a2902ddf531a57daf2b013170",
+      "md5_hash": "591a0153cc7dd276f071889334cdddf8",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "f0b6107612d670bbac7154fae766e862e79a9b6791a7aff2ac6d9d60b3d2e8ef",
       "sha1_hash": "c400e666a5cf65e05122a69b266e817eac12d33a",
       "md5_hash": "660d7791f1053786885b355380e0db89",
@@ -3438,6 +4527,24 @@
       "sha256_hash": "f2066f1d6994b6f6625d6bdf83556790aaab26045f49d5f757f1db9226296fa9",
       "sha1_hash": "7deeb7533522f6c5b8f78e821a8c12110f7f5552",
       "md5_hash": "ee14114a1dcd42a540aaa9f70c5615e7",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "f257f9be19c4b18f0581d36056a4b0e8032586b60aae3115c78b81a5758a8768",
+      "sha1_hash": "707097635bfb51e7d9f6366639b8c42c0074ea88",
+      "md5_hash": "c62ce8c67fd75aebebca0503ba564165",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "f3ee8522c46e31269449c58c69369f93a525201559fda2a2eff1d2d205f4f778",
+      "sha1_hash": "7e0c6781b9b560dc958d38786419f5a09dcf3cf6",
+      "md5_hash": "d2e511a1e5836f0557c695eb23307711",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
@@ -3498,6 +4605,15 @@
       ]
     },
     {
+      "sha256_hash": "f690e30b6ee25c153effc5620fd7ec61481a449a127b54a67c7afc4c13d7917f",
+      "sha1_hash": "8d1d623b6695c234acf9c5ebe5a1ad35d67aab03",
+      "md5_hash": "2dfdce36a367b89b0de1a2ffc1052e24",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
       "sha256_hash": "f797821068cf7951ac6177183fb3fd9db19a4b75efff1a915c7b67ed0a0e80ec",
       "sha1_hash": "897bd5c21120212be00eb4a042954b0dc8e664bb",
       "md5_hash": "207b35953d60b5e637761a1daecb4081",
@@ -3546,6 +4662,15 @@
       "sha256_hash": "fa88048b5f80993c1535ec1629dffe075db7f60e2509be890966826f2631da53",
       "sha1_hash": "921ca7660f20a49679ba9ee003df30e10968302e",
       "md5_hash": "f9939b6f558ab2da1a11298dcd0daaa3",
+      "detection": [
+        "Android.Spy.Lydia",
+        "IRATA"
+      ]
+    },
+    {
+      "sha256_hash": "fa949a7d3512b0d477e7fcf8c665bc4e0b87afe8eeb93108b488ab4eb5f485ae",
+      "sha1_hash": "c81324433d658045c8c4bc9575f43a56189452ad",
+      "md5_hash": "f47164e50e48d7bcda36dbc49cccca77",
       "detection": [
         "Android.Spy.Lydia",
         "IRATA"
